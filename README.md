@@ -1,0 +1,2 @@
+# Adice
+The Calculator App
